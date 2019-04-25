@@ -6,17 +6,10 @@
     "build": "next build",
     "start": "next start"
   },
-  "dependencies": {
-    "next": "latest",
-    "react": "^16.7.0",
-    "react-dom": "^16.7.0",
-    "styled-components": "^4.2.0"
-  },
+  "dependencies": {},
   "license": "ISC",
   "keywords": [],
   "private": true,
   "description": "",
-  "devDependencies": {
-    "babel-cli": "^6.26.0"
-  }
+  "devDependencies": {}
 }
