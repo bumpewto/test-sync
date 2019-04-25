@@ -1,0 +1,22 @@
+{
+  "name": "test-out-of-sync",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "styled-components": "^4.2.0"
+  },
+  "license": "ISC",
+  "keywords": [],
+  "private": true,
+  "description": "",
+  "devDependencies": {
+    "babel-cli": "^6.26.0"
+  }
+}
